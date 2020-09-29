@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\bin\Debug\netcoreapp3.1\RockPaperScissorsFTThree.exe
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\bin\Debug\netcoreapp3.1\RockPaperScissorsFTThree.deps.json
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\bin\Debug\netcoreapp3.1\RockPaperScissorsFTThree.runtimeconfig.json
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\bin\Debug\netcoreapp3.1\RockPaperScissorsFTThree.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\bin\Debug\netcoreapp3.1\RockPaperScissorsFTThree.dll
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\bin\Debug\netcoreapp3.1\RockPaperScissorsFTThree.pdb
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.AssemblyInfo.cs
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.dll
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.pdb
+C:\Users\opilane\source\repos\RockPaperScissorsFTThree\RockPaperScissorsFTThree\obj\Debug\netcoreapp3.1\RockPaperScissorsFTThree.genruntimeconfig.cache
